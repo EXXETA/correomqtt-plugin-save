@@ -1,6 +1,6 @@
-package com.exxeta.correomqtt.plugin.manipulator;
+package org.correomqtt.plugin.manipulator;
 
-import com.exxeta.correomqtt.plugin.manager.PermissionPlugin;
+import org.correomqtt.plugin.manager.PermissionPlugin;
 import javafx.util.FXPermission;
 import org.pf4j.PluginWrapper;
 

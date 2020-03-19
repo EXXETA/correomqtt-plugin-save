@@ -1,6 +1,6 @@
-package com.exxeta.correomqtt.plugin.manipulator;
+package org.correomqtt.plugin.manipulator;
 
-import com.exxeta.correomqtt.plugin.spi.DetailViewManipulatorHook;
+import org.correomqtt.plugin.spi.DetailViewManipulatorHook;
 import javafx.stage.FileChooser;
 import javafx.stage.Stage;
 import javafx.stage.Window;
